@@ -1,0 +1,29 @@
+# site
+title: Sofia Zafeiriou
+# baseurl: "/iou"
+# url: sofiazafeir.github.io
+favicon: "/assets/sample/ico.png"
+g_analytics: UA-12345678-1
+
+# bio
+header: Sofia Zafeiriou
+desc: sample samples
+
+# posts
+#date_format: "%Y"
+#post_title: Story
+#post_date: Year
+#post_cat: Genre
+
+# post detail
+#prev-next: true
+
+# build settings
+#markdown: kramdown
+remote-theme: lilykonings/louie
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+
+plugins:
+  - jekyll-feed
